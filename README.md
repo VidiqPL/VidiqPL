@@ -9,5 +9,3 @@
 ## Activity
 ![GitHub Snake](https://github.com/VidiqPL/VidiqPL/blob/output/github-contribution-grid-snake.svg)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidiqPL&theme=github_dark)
