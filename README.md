@@ -2,8 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=VidiqPL&label=Views&color=blueviolet&style=flat-square)
 
 ## About Me
-- Mainly Python  
-- Also: Lua, C++, C#  
+- Mainly Python and Lua
 - Arch Linux (Hyprland) + Windows    
 
 ## Stack
